@@ -1,0 +1,17 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr style="font-weight:bold;">
+			<th scope="col">id</th><th scope="col">employeeid</th><th scope="col">employeename</th><th scope="col">department</th>
+		</tr><tr>
+			<td>1</td><td>735_245</td><td>laxmi</td><td>HR</td>
+		</tr><tr>
+			<td>2</td><td>735_246</td><td>Sai</td><td>Software</td>
+		</tr><tr>
+			<td>3</td><td>735_247</td><td>Hari</td><td>Accounts</td>
+		</tr><tr>
+			<td>5</td><td>735_248</td><td>Raju</td><td>Software</td>
+		</tr><tr>
+			<td>6</td><td>735_249</td><td>Ravi</td><td>HR</td>
+		</tr>
+	</table>
+</div>
